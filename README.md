@@ -10,3 +10,4 @@ Für meine Website nutzte ich folgende Quellen: <br>
 - W3School<br>
 - ChatGPT<br>
 - Stack Overflow<br>
+- CodePen
