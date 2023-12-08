@@ -5,8 +5,8 @@ Meine Website ist in 3 Themenbereiche unterteilt. Pre-, Post- und Produktion. Si
 Schwierigkeiten hatte ich vor allem mit Javascript. Hier musste ich die meiste Hilfe in Anspruch nehmen. Es gab auch Schwierigkeiten mit dem responsiven Design. Das meiste konnte ich lösen, aber hier und da gab es Dinge, die ich nicht perfekt programmieren konnte. 
 
 <h2>Quellen</h2>
-Für meine Website nutzte ich folgende Quellen: 
-Youtube Tutorials
-W3School
-ChatGPT
-Stack Overflow
+Für meine Website nutzte ich folgende Quellen: <br>
+Youtube Tutorials<br>
+W3School<br>
+ChatGPT<br>
+Stack Overflow<br>
