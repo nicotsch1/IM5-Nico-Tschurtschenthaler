@@ -8,6 +8,7 @@ Schwierigkeiten hatte ich vor allem mit Javascript. Hier musste ich die meiste H
 Für meine Website nutzte ich folgende Quellen: <br>
 - Youtube Tutorials<br>
 - W3School<br>
+- CodePen<br>
 - ChatGPT<br>
 - Stack Overflow<br>
-- CodePen
+
