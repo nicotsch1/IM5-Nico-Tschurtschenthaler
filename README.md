@@ -6,7 +6,7 @@ Schwierigkeiten hatte ich vor allem mit Javascript. Hier musste ich die meiste H
 
 <h2>Quellen</h2>
 Für meine Website nutzte ich folgende Quellen: <br>
-Youtube Tutorials<br>
-W3School<br>
-ChatGPT<br>
-Stack Overflow<br>
+- Youtube Tutorials<br>
+- W3School<br>
+- ChatGPT<br>
+- Stack Overflow<br>
